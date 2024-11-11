@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ievle\source\repos\ConsoleCpp\main.cpp(16,32): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ConsoleCpp.vcxproj -> C:\Users\ievle\source\repos\ConsoleCpp\x64\Debug\ConsoleCpp.exe
